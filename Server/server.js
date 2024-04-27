@@ -2,11 +2,11 @@ import dotenv from "dotenv";
 import express from "express";
 import { Router } from "express";
 import cors from 'cors';
-import connectDB from "./Server/config/db.js";
-import authRoutes from "./Server/Routes/authRoutes.js";
-import clientRoutes from "./Server/Routes/clientRoutes.js";
-import freelancerRoutes from "./Server/Routes/freelancerRoutes.js";
-import generalRoutes from "./Server/Routes/generalRoutes.js"
+import connectDB from "./config/db.js";
+import authRoutes from "./Routes/authRoutes.js";
+import clientRoutes from "./Routes/clientRoutes.js";
+import freelancerRoutes from "./Routes/freelancerRoutes.js";
+import generalRoutes from "./Routes/generalRoutes.js"
 // import chatRoutes from './Routes/chatRoutes.js'
 import path, { dirname } from 'path';
 import { fileURLToPath } from 'url';
