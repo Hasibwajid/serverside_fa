@@ -1,4 +1,4 @@
-Some SS Client Side is Deployed on Vercel and Backend on Render:
+Some SS, Client Side is Deployed on Vercel and Backend on Render:
 
 ![Screenshot 2024-04-27 110615](https://github.com/Hasibwajid/fa_frontside/assets/72168225/896ee100-93fb-4770-99b1-facb13bca972)
 
